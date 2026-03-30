@@ -1,18 +1,18 @@
-# TP React - Gestion d'État et Formulaires
+![ex2](https://github.com/user-attachments/assets/e6b83127-6afc-423c-b20d-fecef8c6f6fd)# TP React - Gestion d'État et Formulaires
 
 Ce projet est un tutoriel pratique pour apprendre les concepts fondamentaux de React, incluant la gestion d'état local, les formulaires contrôlés, et les effets secondaires avec les hooks.
 
 ##  demo
+![1](https://github.com/user-attachments/assets/11d60554-50bf-491a-a9b7-d051e66b27ef)
+![3](https://github.com/user-attachments/assets/7519771e-0e77-4816-b199-d7f94acb8091)
 
-![1](https://github.com/user-attachments/assets/01860e45-f497-407c-9f6d-b63cbd3eb594)
-![3](https://github.com/user-attachments/assets/74fe7a67-bb3e-4134-8d89-3979ba2e625a)
+![3 1](https://github.com/user-attachments/assets/b5ebd937-2c34-43a2-8613-8495aa18b1c7)
 
-![3 1](https://github.com/user-attachments/assets/0086fb2a-a99b-408e-88c5-77352e912d1c)
-)
+![4](https://github.com/user-attachments/assets/a93b14eb-b2f9-4136-b9a9-83b199ee9ca4)
 
-![4](https://github.com/user-attachments/assets/40c3072b-9cc6-4117-8e0b-54f5f83ee905)
-![ex1](ht![ex2](https://github.com/user-attachments/assets/b2abc325-0800-462d-9259-8b7e4c3a069d)
-tps://github.com/user-attachments/assets/ea816b84-1acd-434d-9c70-7761543d5913)
+![ex1](https://github.com/user-attachments/assets/1b574b49-9e36-4086-bac0-3f4596929f04)
+
+![ex2](https://github.com/user-attachments/assets/3a564c54-1931-4abb-92dc-731e064ded76)
 
 ## ✨ Fonctionnalités
 
