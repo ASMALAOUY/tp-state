@@ -1,4 +1,4 @@
-![ex2](https://github.com/user-attachments/assets/e6b83127-6afc-423c-b20d-fecef8c6f6fd)# TP React - Gestion d'État et Formulaires
+# TP React - Gestion d'État et Formulaires
 
 Ce projet est un tutoriel pratique pour apprendre les concepts fondamentaux de React, incluant la gestion d'état local, les formulaires contrôlés, et les effets secondaires avec les hooks.
 
