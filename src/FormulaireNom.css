@@ -1,0 +1,50 @@
+.formulaire-nom {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  padding: 2rem;
+  border: 1px solid #d1fae5;
+  border-radius: 12px;
+  background-color: #f0fdf4;
+  max-width: 360px;
+  margin: 2rem auto;
+}
+
+.formulaire-nom label {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #166534;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+.formulaire-nom input {
+  padding: 0.5rem 0.8rem;
+  font-size: 1rem;
+  border: 1px solid #86efac;
+  border-radius: 6px;
+  outline: none;
+  transition: border-color 0.2s;
+  background: #ffffff;
+}
+
+.formulaire-nom input:focus {
+  border-color: #22c55e;
+  box-shadow: 0 0 0 3px rgba(34,197,94,0.15);
+}
+
+.formulaire-nom button {
+  padding: 0.6rem;
+  font-size: 0.95rem;
+  background-color: #22c55e;
+  color: #fff;
+  border: none;
+   border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: background-color 0.2s;
+}
+
+.formulaire-nom button:hover {
+  background-color: #16a34a;
+}

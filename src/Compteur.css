@@ -1,0 +1,40 @@
+/* Compteur.css */
+
+.compteur {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  padding: 2rem;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  background-color: #f8fafc;
+  max-width: 300px;
+  margin: 2rem auto;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.compteur p {
+  font-size: 1.2rem;
+  color: #334155;
+  font-weight: 500;
+  margin: 0;
+}
+.compteur button {
+  padding: 0.6rem 1.5rem;
+  font-size: 1rem;
+  background-color: #3b82f6;
+  color: #ffffff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.compteur button:hover {
+  background-color: #2563eb;
+}
+
+.compteur button:active {
+  transform: scale(0.97);
+}

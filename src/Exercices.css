@@ -1,0 +1,85 @@
+/* Style simple pour les exercices */
+.exercices-section {
+  margin-top: 40px;
+}
+
+/* Titre des exercices */
+.exercices-title {
+  font-size: 2rem;
+  color: #333;
+  text-align: center;
+  margin: 30px 0 20px 0;
+  padding: 10px;
+  background: #f0f0f0;
+  border-radius: 8px;
+}
+
+/* Carte pour chaque exercice */
+.exercice-card {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Titre de chaque exercice */
+.exercice-card h2 {
+  color: #667eea;
+  margin-bottom: 15px;
+  font-size: 1.5rem;
+}
+
+/* Boutons des exercices */
+.exercice-card button {
+  background: #667eea;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+  margin-top: 10px;
+}
+
+.exercice-card button:hover {
+  background: #5a67d8;
+}
+
+/* Champs de formulaire */
+.exercice-card input {
+  width: 100%;
+  padding: 8px;
+  margin: 5px 0 10px 0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+.exercice-card input:focus {
+  outline: none;
+  border-color: #667eea;
+}
+
+/* Style pour les paragraphes */
+.exercice-card p {
+  margin: 10px 0;
+  font-size: 1rem;
+  color: #555;
+}
+
+/* Valeur du compteur */
+.counter-value {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #667eea;
+  margin: 10px 0;
+}
+
+/* Ligne de séparation */
+hr {
+  margin: 20px 0;
+  border: none;
+  border-top: 1px solid #eee;
+}
