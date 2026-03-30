@@ -8,7 +8,7 @@ Ce projet est un tutoriel pratique pour apprendre les concepts fondamentaux de R
 ![3](https://github.com/user-attachments/assets/74fe7a67-bb3e-4134-8d89-3979ba2e625a)
 
 ![3 1](https://github.com/user-attachments/assets/0086fb2a-a99b-408e-88c5-77352e912d1c)
-![3 2](https://github.com/user-attachments/assets/f4f490f8-93d8-449e-a144-e812654fa505)
+)
 
 ![4](https://github.com/user-attachments/assets/40c3072b-9cc6-4117-8e0b-54f5f83ee905)
 ![ex1](ht![ex2](https://github.com/user-attachments/assets/b2abc325-0800-462d-9259-8b7e4c3a069d)
